@@ -1,0 +1,14 @@
+<!-- question: 24511  -->
+  <question type="essay">
+    <name>
+      <text>Kod pretraživanja na webu,
+kad posjetite neku od stranica koje vam pretraživač ponudi,
+kako odlučite je li podatak istini i točan?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Kod pretraživanja na webu, kad posjetite neku od stranica koje vam pretraživač ponudi, kako odlučite je li podatak istinit? Opišite ukratko.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+  </question>

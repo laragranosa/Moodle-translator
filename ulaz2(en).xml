@@ -1,0 +1,29 @@
+<!-- question: 24511  -->
+<question type="essay">
+<name>
+<text><![CDATA[span class="multilang" lang="hr">Kod pretraživanja na webu, kad posjetite neku od stranica koje vam pretraživač ponudi,kako odlučite je li podatak istini i točan?</span><span class="multilang" lang="en">When searching the Internet, when you visit one of the pages that the search engine offers, how do you decide whether the information is true and accurate?</span><span class="multilang" lang="de">Wie entscheiden Sie beim Durchsuchen des Webs, wenn Sie eine der von der Suchmaschine angebotenen Seiten besuchen, ob die Informationen wahr und richtig sind?</span>]]></text></name>
+<questiontext format="html">
+<text><![CDATA[span class="multilang" lang="hr">Kod pretraživanja na webu, kad posjetite neku od stranica koje vam pretraživač ponudi, kako odlučite je li podatak istinit? Opišite ukratko.</span><span class="multilang" lang="en">When searching the Internet, when you visit one of the pages that the search engine offers, how do you decide if the information is true? describe it briefly.</span><span class="multilang" lang="de">Wie entscheiden Sie beim Durchsuchen des Webs, wenn Sie eine der von der Suchmaschine angebotenen Seiten besuchen, ob die Informationen wahr sind? Beschreiben Sie kurz.</span>]]></text></questiontext>
+<generalfeedback format="html">
+<text>
+</text>
+</generalfeedback>
+<defaultgrade>1.0000000</defaultgrade>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<idnumber>
+</idnumber>
+<responseformat>plain</responseformat>
+<responserequired>1</responserequired>
+<responsefieldlines>5</responsefieldlines>
+<attachments>0</attachments>
+<attachmentsrequired>0</attachmentsrequired>
+<graderinfo format="html">
+<text>
+</text>
+</graderinfo>
+<responsetemplate format="html">
+<text>
+</text>
+</responsetemplate>
+</question>
